@@ -1,0 +1,30 @@
+{
+    "valid" : 
+        {
+            "email": "8328540478",
+            "password": "Priya@123"
+
+        },
+    "invalid" : 
+    {
+        "email": "na",
+        "pass": "na"
+    },
+    "Mail": 
+    {
+        "email": "qwerty",
+        "pass": ""
+        
+    },
+    "Pass":
+    {
+        "email": " ",
+        "pass": "na"
+    },
+    "Na":
+    {
+        "email":" ",
+        "pass":" "
+    }   
+    
+}

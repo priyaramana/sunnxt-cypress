@@ -1,0 +1,16 @@
+{
+  "testData" : [
+{
+ "email": "standard_user",
+ "Password": "secret_sauce"
+},
+{
+  "email": "locked_out_user",
+  "Password": "secret_sauce"
+ },
+ {
+  "email": "problem_user",
+  "Password": "secret_sauce"
+ }
+]
+}
